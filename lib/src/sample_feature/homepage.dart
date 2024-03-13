@@ -5,6 +5,6 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Center(child: Text("Welcom to my personal web page.\nSite is still under construction."));
+    return const Center(child: Text("Welcome to my personal web page.\nSite is still under construction."));
   }
 }
